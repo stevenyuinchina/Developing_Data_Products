@@ -1,6 +1,6 @@
 ---
-title       : User manual for Prediction model for economics dataset
-subtitle    : Slidify presentation for Coursera Course Developing Data Products
+title       : Prediction model for economics dataset
+subtitle    : User manual for Coursera Course Developing Data Products project app
 author      : Steven, Yu Jin
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
@@ -37,14 +37,16 @@ By using this app, you can have a clear view of the trend of the selected variab
 The prediction model used is ARIMA, whose parameters would be defined automatically by auto.arima function of R.
 
 - Jump start  
-On opening the app, you can find there are three input area. 
-1) Select group to view
+On opening the app, you can find there are three input area.
+  
+  
+  1) Select group to view
 This is the list where you can select the forecast object.
 
-2) Select the range of base year
+  2) Select the range of base year
 In this slider, you can slide to alter the range of the years as base data for predition.
 
-3) Select predict periods
+  3) Select predict periods
 This slider is set to alter the estimate period.
 
 You can find the result real-time on the forecast image on the left hand.
