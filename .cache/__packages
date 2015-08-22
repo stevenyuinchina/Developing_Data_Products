@@ -1,0 +1,16 @@
+base
+shiny
+ggplot2
+MASS
+HistData
+lattice
+survival
+Formula
+Hmisc
+UsingR
+dplyr
+zoo
+timeDate
+forecast
+slidify
+devtools
